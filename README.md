@@ -4,7 +4,7 @@ A joint project to explore Big Data, Data Science tools, and visualization in Py
 
 ## Getting Started
 
-This project requires you to install Anaconda 3.7 and make use of Jupyter Notebooks for Python.  All packages should be installed based on the import statements at the top of the IPYNB file.  All Python work is saved in Exploring the wildfires in US.ipynb and final presentation is available within Group3_Presentation_29APR19.pptx as well a shortened version on https://youtu.be/kxaEjTdzNXs.  A complete version of the project (567mb zipped) can be found here: 
+This project requires you to install Anaconda 3.7 and make use of Jupyter Notebooks for Python.  All packages should be installed based on the import statements at the top of the IPYNB file.  All Python work is saved in Exploring the wildfires in US.ipynb and final presentation is available within Wildfires_presentation_1MAR9.pptx as well a shortened version on https://youtu.be/kxaEjTdzNXs.  A complete version of the project (567mb zipped) can be found here: 
 https://onedrive.live.com/?authkey=%21ABKvLoSz%5F5z%5Fo40&cid=8CAC97F049439608&id=8CAC97F049439608%211574&parId=root&action=locate
 
 Tableau was also used to create some of the visualizations.
